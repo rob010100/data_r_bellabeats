@@ -1,1 +1,1 @@
-This is the Google Data Analytics capstone project Bellabeats data import, cleaning, and analysis in R Studio. While the last three functions were used for ggplot, data was also exported to Tableau. 
+This is the Google Data Analytics capstone project Bellabeats data import, cleaning, and analysis in R Studio. While the last three functions were used for ggplot, data was also exported to Tableau (Viz link in resume). 
